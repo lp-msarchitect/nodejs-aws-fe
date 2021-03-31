@@ -1,3 +1,7 @@
+## Task2
+S3: http://lp-msarchitect-s3-bucket.s3-website-eu-west-1.amazonaws.com/ (403 because cloud front setup)
+CloudFront: https://dgu2vgszg46gq.cloudfront.net/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
